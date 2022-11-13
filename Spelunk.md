@@ -11,9 +11,9 @@ Solved by: Anonymous
 
 ---
 
-![Untitled](Spelunk%209ab9a664b1774cea8820ce5699e27d32/Untitled.png)
+![Untitled](Spelunk/Untitled.png)
 
-![Untitled](Spelunk%209ab9a664b1774cea8820ce5699e27d32/Untitled%201.png)
+![Untitled](Spelunk/Untitled%201.png)
 
 # Solution
 
@@ -22,7 +22,7 @@ Solved by: Anonymous
 The downloaded file contains a folder "World". within it various subfolders on playerdata, stats etc.
 To understand what it is I open the icon, this reminds me a Minecraft world directory.
 
-![icon.png](Spelunk%209ab9a664b1774cea8820ce5699e27d32/icon.png)
+![icon.png](Spelunk/icon.png)
 
 This can be seen as the structure is identical to any new world created on minecraft.
 
@@ -33,7 +33,7 @@ Once you have downloaded the tool, open the world and search the region folder, 
 
 The calculation takes several minutes being the amount of chunks very high, after a first empty sign I was able to find the sign I was looking for with the flag inside.
 
-![Untitled](Spelunk%209ab9a664b1774cea8820ce5699e27d32/Untitled%202.png)
+![Untitled](Spelunk/Untitled%202.png)
 
 So the flag was: buckeye{700_m4ny_chunk5_70_5p31unk}.
 
