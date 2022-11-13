@@ -1,9 +1,11 @@
-# Spelunk
+# Buckeye22 - Spelunk
 
-CTF: buckeye2022
-Category: misc
-Difficulty: Medium
-Solved by: Srdnlen {Salvatore Castello}
+
+### Category: misc.
+
+### Difficulty: Medium.
+
+### Solved by: Srdnlen {Salvatore Castello}.
 
 # Description
 
@@ -12,6 +14,8 @@ Solved by: Srdnlen {Salvatore Castello}
 ![Descrizione](docs/Descrizione.png)
 
 ![Zippone](docs/Zippone.png)
+
+Here's the file: [spelunk.zip](docs/spelunk.zip)
 
 # Solution
 
@@ -45,7 +49,10 @@ But luckily after a few seconds I found the sign I was looking for with the flag
 
 So the flag was: buckeye{700_m4ny_chunk5_70_5p31unk}.
 
-If the road sign does not bring any results you have to see the Chunk from above with Amulet/mcedit (beware mcedit does not seem to work any more than a certain version of MC) to see if there is some gigantographic writing in the ground.
+My second idea if that didn't work was:
+If the road sign does not bring any results I have to see the Chunk from above with Amulet/mcedit (beware mcedit does not seem to work any more than a certain version of MC) to see if there is some gigantographic writing in the ground.
+
+Fortunately, I had a good intuition, so I did not go in search of giant photos :).
 
 # Links and tools
 
