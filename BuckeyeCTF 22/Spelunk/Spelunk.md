@@ -15,8 +15,6 @@
 
 ![Zippone](docs/Zippone.png)
 
-Here's the file: [spelunk.zip](docs/spelunk.zip)
-
 # Solution
 
 ---
